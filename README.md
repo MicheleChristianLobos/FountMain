@@ -1,7 +1,7 @@
 # FountMain
 Questo è un progetto di informatica sui Web Service, DataBase, ecc.
 
-# Autori (5^C Informatica)
+# Autori
 Michele Christian Lobos w Nicola Schianchi
 
 # Consegna
