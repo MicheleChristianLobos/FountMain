@@ -1,6 +1,9 @@
 # FountMain
 Questo è un progetto di informatica sui Web Service, DataBase, ecc.
 
+# Autori (5^C Informatica)
+Michele Christian Lobos w Nicola Schianchi
+
 # Consegna
 Progetto di laboratorio informatica fine anno:
 - 🔹 Creare una web application con framework php codeigniter (accettato anche laravel)
